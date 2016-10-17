@@ -20,14 +20,8 @@ Quick start
 1. Add "subs" to your INSTALLED_APPS setting like this::
 
     INSTALLED_APPS = [
-        ...
-<<<<<<< HEAD
-        'polls',
-    ]/Users/duffrind/subtitles/studysubs/requirements.txt
-=======
         'subs',
     ]
->>>>>>> f14b0c72f82e56296969ef66a71c881216efa0f1
 
 2. Include the subs URLconf in your project urls.py like this::
 
